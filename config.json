@@ -1,11 +1,11 @@
 {
-  "version": "1.3.2",
+  "version": "1.5.1",
   "update": {
-    "version": "1.3",
+    "version": "1.5",
     "message": "优化播放体验"
   },
   "search_hint": "搜索音乐/歌手/专辑",
-  "review" : 1,
+  "review" : 0,
   "limited": "4",
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
@@ -32,31 +32,38 @@
   },
   "hot_banners": [
     {
-      "musicHref": "3326707631",
-      "musicName": "爱乐之都 Ι 不负热爱，实力闪耀",
+      "musicHref": "3344474759",
+      "musicName": "声生不息 Ι 传承经典港乐，完成新时代表达",
       "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/21/39/1648917266260_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/54/10/1653840200484_.jpg",
       "type": "2"
     },
     {
       "musicHref": "3326469472",
       "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
       "musicArtist": "",
-      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/47/16/1648917436070_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/57/63/1653666976227_.jpg",
       "type": "2"
     },
     {
-      "musicHref": "3322005864",
-      "musicName": "王牌对王牌第七季 Ι 一起体验多彩人生",
+      "musicHref": "3340290270",
+      "musicName": "春天花会开 Ι 追溯民歌本源",
       "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/23/21/1647045428315_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/83/18/1653666901310_.jpg",
       "type": "2"
     },
     {
-      "musicHref": "3325360911",
-      "musicName": "网络情歌 | 为何痴心的人不配有真爱",
+      "musicHref": "3335971332",
+      "musicName": "Queendom2 Ι 韩国女团回归大战",
       "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/79/79/1648293338617_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/93/7/1653626441901_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3338301162",
+      "musicName": "为歌而赞第二季 Ι 老歌pk新歌",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/90/94/1653756341184_.jpg",
       "type": "2"
     }
   ],
