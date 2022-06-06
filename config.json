@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "update": {
     "version": "1.5",
     "message": "优化播放体验"
@@ -35,35 +35,35 @@
       "musicHref": "3344474759",
       "musicName": "声生不息 Ι 传承经典港乐，完成新时代表达",
       "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/54/10/1653840200484_.jpg",
-      "type": "2"
-    },
-    {
-      "musicHref": "3326469472",
-      "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
-      "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/57/63/1653666976227_.jpg",
-      "type": "2"
-    },
-    {
-      "musicHref": "3340290270",
-      "musicName": "春天花会开 Ι 追溯民歌本源",
-      "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/83/18/1653666901310_.jpg",
-      "type": "2"
-    },
-    {
-      "musicHref": "3335971332",
-      "musicName": "Queendom2 Ι 韩国女团回归大战",
-      "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/93/7/1653626441901_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/10/67/1654444625635_.jpg",
       "type": "2"
     },
     {
       "musicHref": "3338301162",
       "musicName": "为歌而赞第二季 Ι 老歌pk新歌",
       "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/90/94/1653756341184_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/31/88/1654359034612_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3336627481",
+      "musicName": "经典咏流传第五季 Ι 用经典讲述大美中华",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/79/13/1654359109801_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3326469472",
+      "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
+      "musicArtist": "",
+      "imageUrl": "https://img4.kuwo.cn/star/upload/1/1/1654235951841_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3335971332",
+      "musicName": "Queendom2 Ι 韩国女团回归大战",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/85/9/1654237125571_.jpg",
       "type": "2"
     }
   ],
