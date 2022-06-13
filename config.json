@@ -1,5 +1,5 @@
 {
-  "version": "1.5.5",
+  "version": "1.5.6",
   "update": {
     "version": "1.5",
     "message": "优化播放体验"
@@ -32,24 +32,31 @@
   },
   "hot_banners": [
     {
+      "musicHref": "3340290270",
+      "musicName": "春天花会开 Ι 追溯民歌本源",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/74/24/1654867699922_.jpg",
+      "type": "2"
+    },
+    {
       "musicHref": "3344474759",
       "musicName": "声生不息 Ι 传承经典港乐，完成新时代表达",
       "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/10/67/1654444625635_.jpg",
+      "imageUrl": "https://img1.kuwo.cn/star/upload/8/8/1655030231080_.jpg",
       "type": "2"
     },
     {
       "musicHref": "3338301162",
       "musicName": "为歌而赞第二季 Ι 老歌pk新歌",
       "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/31/88/1654359034612_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/49/43/1654962793555_.jpg",
       "type": "2"
     },
     {
       "musicHref": "3336627481",
       "musicName": "经典咏流传第五季 Ι 用经典讲述大美中华",
       "musicArtist": "",
-      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/79/13/1654359109801_.jpg",
+      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/52/7/1654962828505_.jpg",
       "type": "2"
     },
     {
@@ -57,13 +64,6 @@
       "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
       "musicArtist": "",
       "imageUrl": "https://img4.kuwo.cn/star/upload/1/1/1654235951841_.jpg",
-      "type": "2"
-    },
-    {
-      "musicHref": "3335971332",
-      "musicName": "Queendom2 Ι 韩国女团回归大战",
-      "musicArtist": "",
-      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/85/9/1654237125571_.jpg",
       "type": "2"
     }
   ],
