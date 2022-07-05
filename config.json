@@ -1,11 +1,12 @@
 {
-  "version": "1.7.3",
+  "version": "1.8.1",
   "update": {
-    "version": "1.7",
+    "version": "1.8",
     "message": "优化播放体验"
   },
   "search_hint": "搜索音乐/歌手/专辑",
   "review" : 0,
+  "mp3enabled": 1,
   "limited": "4",
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
