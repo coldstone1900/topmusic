@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
+  "version": "2.4.3",
   "update": {
     "version": "2.4",
     "message": "优化播放体验"
@@ -35,13 +35,6 @@
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
   "hot_banners": [
-    {
-      "musicHref": "29907550",
-      "musicName": "超感星电音 第1期",
-      "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/13/49/1657894887607_.jpg",
-      "type": "2"
-    },
     {
       "musicHref": "3371381148",
       "musicName": "中国巅峰说唱对决 Ι 实力rapper集结",
