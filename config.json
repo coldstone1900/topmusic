@@ -1,16 +1,14 @@
 {
-  "version": "2.4.5",
+  "version": "2.8.0",
   "update": {
-    "version": "2.4",
+    "version": "2.8",
     "message": "优化播放体验"
   },
   "search_hint": "搜索音乐",
   "review": 0,
   "mp3enabled": 1,
-  "audio_extensions": [
-    "mp3"
-  ],
   "limited": "4",
+  "alternative": 0,
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
@@ -36,10 +34,17 @@
   },
   "hot_banners": [
     {
-      "musicHref": "3371381148",
-      "musicName": "中国巅峰说唱对决 Ι 实力rapper集结",
+      "musicHref": "3338301162",
+      "musicName": "为歌而赞第二季 Ι 老歌pk新歌",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/36/15/1658118619809_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/4/64/1657378801786_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "29613788",
+      "musicName": "中国说唱巅峰对决 第2期",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/20/86/1657378841204_.jpg",
       "type": "2"
     },
     {
