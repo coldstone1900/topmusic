@@ -1,5 +1,5 @@
 {
-  "version": "2.9.1",
+  "version": "2.9.2",
   "update": {
     "version": "2.9",
     "message": "优化播放体验"
@@ -7,7 +7,7 @@
   "search_hint": "搜索音乐",
   "review": 0,
   "mp3enabled": 1,
-  "limited": "4",
+  "limited": "2",
   "alternative": 0,
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
