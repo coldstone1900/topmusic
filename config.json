@@ -1,5 +1,5 @@
 {
-  "version": "2.9.8",
+  "version": "2.9.8.1",
   "update": {
     "version": "2.9",
     "message": "优化播放体验"
@@ -35,7 +35,7 @@
   "hot_banners": [
     {
       "url": "https://play.google.com/store/apps/details?id=com.coldstone.filmku",
-      "imageUrl": "https://coldstone1900.github.io/filmku/ad_filmku_1.png",
+      "imageUrl": "https://coldstone1900.github.io/filmku/ad_filmku_2.png",
       "type": "4"
     },
     {
