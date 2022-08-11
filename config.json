@@ -1,5 +1,5 @@
 {
-  "version": "2.9.2",
+  "version": "2.9.4",
   "update": {
     "version": "2.9",
     "message": "优化播放体验"
@@ -33,6 +33,12 @@
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
   "hot_banners": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.coldstone.filmku",
+      "displayMusicName": "i酷影视 在线高清影院",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/89/9/1659191383565_.jpg",
+      "type": "4"
+    },
     {
       "musicHref": "3371381148",
       "musicName": "中国巅峰说唱对决 Ι 实力rapper集结",
