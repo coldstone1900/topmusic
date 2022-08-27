@@ -1,14 +1,15 @@
 {
-  "version": "2.9.8.2",
+  "version": "3.0.1",
   "update": {
-    "version": "2.9",
+    "version": "3.0.0",
     "message": "优化播放体验"
   },
   "search_hint": "搜索音乐",
   "review": 0,
   "mp3enabled": 1,
-  "limited": "2",
+  "limited": "4",
   "alternative": 0,
+  "adopen": 1,
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
@@ -33,11 +34,6 @@
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
   "hot_banners": [
-    {
-      "url": "https://play.google.com/store/apps/details?id=com.coldstone.filmku",
-      "imageUrl": "https://coldstone1900.github.io/filmku/ad_filmku_2.png",
-      "type": "4"
-    },
     {
       "musicHref": "3371381148",
       "musicName": "中国巅峰说唱对决 Ι 实力rapper集结",
