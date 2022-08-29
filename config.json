@@ -1,7 +1,7 @@
 {
-  "version": "3.0.2",
+  "version": "3.1.2",
   "update": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "message": "优化播放体验"
   },
   "search_hint": "搜索音乐",
@@ -10,6 +10,14 @@
   "limited": "4",
   "alternative": 0,
   "adopen": 1,
+  "appLovin": {
+    "open": 1,
+    "key": "moTickBwmUx6KT2Hl0mHHHVg4CqyJQiifLsQAwD3qWdvTXtTLHJm0hScoDhSXISuAQ5CCan0rCm7RBcKcMkT_C",
+    "home": "0a7f51e092413c5c",
+    "list": "dbc4276400f0bb7d",
+    "interstitial": "b6a0c407b1c994cc",
+    "reward": "dd59b1d3cc180ca4"
+  },
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
