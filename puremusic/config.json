@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0.0",
+  "update": {
+    "version": "1.0.0",
+    "message": "1、优化播放体验"
+  },
+  "search_hint": "搜索音乐/歌手/专辑",
+  "review" : 1,
+  "host": "http://www.htcyy.com",
+  "referer": "http://www.htcyy.com",
+  "referer1": "http://www.htqyy.com",
+  "limited": "20",
+  "homebanner": "https://sneezeart.github.io/lightmusic/banner.json",
+  "homebanner_new": "https://sneezeart.github.io/lightmusic/banner_new.json",
+  "found": "https://jp.rsscc.com/config/ios/testicons/we/1.json",
+  "vipbg": "http://i.htcyy.com/img7/0/58.jpg",
+  "rank": [
+    {
+      "热播榜": "http://i.htqyy.com/img8/0/33.jpg"
+    },
+    {
+      "新曲榜": "http://i.htqyy.com/img8/3/1621.jpg"
+    },
+    {
+      "新曲推荐": "http://i.htqyy.com/img1/21/flower.jpg"
+    },
+    {
+      "纯音乐": "http://i.htqyy.com/img8/0/58.jpg"
+    },
+    {
+      "钢琴曲": "http://i.htqyy.com/img8/0/329.jpg"
+    },
+    {
+      "中国音乐": "http://i.htqyy.com/img8/0/62.jpg"
+    }
+  ],
+  "home_banners": [
+    {
+      "musicHref": "/play/777",
+      "musicName": "自由如鸟 (Free as a Bird)",
+      "musicArtist": "Omar Akram",
+      "imageUrl": "http://i.htqyy.com/img8/1/777.jpg"
+    },
+    {
+      "musicHref": "2951805989",
+      "musicName": "【粤语】聆听一首老歌，回味一段往事",
+      "musicArtist": "",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/29/45/1580723605054_183409029_700.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "/play/1398",
+      "musicName": "少女的祈祷 (钢琴曲超好听)",
+      "musicArtist": "理查德",
+      "imageUrl": "http://i.htqyy.com/img8/2/1398.jpg"
+    },
+    {
+      "musicHref": "/play/154",
+      "musicName": "你离开的真相 (The Truth That You Leave)",
+      "musicArtist": "Pianoboy",
+      "imageUrl": "http://i.htqyy.com/img8/0/154.jpg"
+    },
+    {
+      "musicHref": "/play/682",
+      "musicName": "Water",
+      "musicArtist": "Brian Crain",
+      "imageUrl": "http://i.htqyy.com/img8/2/1348.jpg"
+    }
+  ]
+}
