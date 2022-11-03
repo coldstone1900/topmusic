@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "update": {
     "version": "1.0.0",
     "message": "1、优化播放体验"
   },
   "search_hint": "搜索音乐/歌手/专辑",
-  "review" : 1,
+  "review" : 0,
   "host": "http://www.htcyy.com",
   "referer": "http://www.htcyy.com",
   "referer1": "http://www.htqyy.com",
